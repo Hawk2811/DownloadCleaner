@@ -6,4 +6,4 @@ Script simples para organizar a pasta downloads
 
 EN-US
 
-Simple script to clean downloads folder 
+Simple script to clean downloads folder
